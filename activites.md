@@ -3,15 +3,12 @@ title: "Activités"
 order: 2
 in_menu: true
 ---
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+l'association **Harmaux Berry & Morvan** a pour but éssentiel de prémouvoir des pratiques favorisant le prise en main de sa vie, en donnant du sens, par différente méthode de travail et pratique holistique.  
 
 ## Nos activités
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+    - Des  harmonisations de lieux de vie (maisons, jardins, fermes, entreprise, bureaux, etc.),
+    - Des soins énergétiques (corps, âme, esprit),
+    - L’organisation de sortie en groupe sur des lieux hautement énergétiques (lieux de culte, fontaine, site mégalithique, etc.),
+    - L’organisation d’activités sur la commune et pour favoriser le lien social par un salon bien être ou autres activités,
+    - L’utilisation, dans le cadre de ses activités, de locaux ou salles mis à disposition par la mairie ou par d’autres partenaires. 
