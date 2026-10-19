@@ -1,6 +1,6 @@
 ---
 title: "agenda"
-order: 4
+order: 5
 in_menu: true
 ---
 **Dates atelier hrmonisations symboliques à Etréchy** ( sous réserve de disponibilite de la salle polyvalente).
